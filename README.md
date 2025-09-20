@@ -42,3 +42,7 @@ npm install
 ```
 npm run dev
 ```
+
+## 📸 Screenshots
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/f0af802c-415b-4f83-b73f-2580888c955c" />
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/b37c15da-5391-457c-a869-57d6f8456666" />
